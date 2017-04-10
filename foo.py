@@ -1,3 +1,4 @@
-import sys
+import sys,os
 
-print "pyflakes"
+print 1+1
+print "p"
