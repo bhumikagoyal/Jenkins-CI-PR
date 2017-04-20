@@ -1,2 +1,2 @@
-print "llejwk"
+import os, sys
 print "ADDj"
